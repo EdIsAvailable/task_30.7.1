@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/task_30.7.1.dir/main.cpp.o CMakeFiles/task_30.7.1.dir/quicksort.cpp.o CMakeFiles/task_30.7.1.dir/task_context.cpp.o CMakeFiles/task_30.7.1.dir/thread_pool.cpp.o -o task_30.7.1 

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/server/task_30.7.1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/task_30.7.1.dir/main.cpp.o -c /home/server/task_30.7.1/main.cpp",
+  "file": "/home/server/task_30.7.1/main.cpp",
+  "output": "CMakeFiles/task_30.7.1.dir/main.cpp.o"
+},
+{
+  "directory": "/home/server/task_30.7.1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/task_30.7.1.dir/quicksort.cpp.o -c /home/server/task_30.7.1/quicksort.cpp",
+  "file": "/home/server/task_30.7.1/quicksort.cpp",
+  "output": "CMakeFiles/task_30.7.1.dir/quicksort.cpp.o"
+},
+{
+  "directory": "/home/server/task_30.7.1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/task_30.7.1.dir/task_context.cpp.o -c /home/server/task_30.7.1/task_context.cpp",
+  "file": "/home/server/task_30.7.1/task_context.cpp",
+  "output": "CMakeFiles/task_30.7.1.dir/task_context.cpp.o"
+},
+{
+  "directory": "/home/server/task_30.7.1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/task_30.7.1.dir/thread_pool.cpp.o -c /home/server/task_30.7.1/thread_pool.cpp",
+  "file": "/home/server/task_30.7.1/thread_pool.cpp",
+  "output": "CMakeFiles/task_30.7.1.dir/thread_pool.cpp.o"
+}
+]
